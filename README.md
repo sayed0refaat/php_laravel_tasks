@@ -1,5 +1,4 @@
 # php_laravel_tasks
 
-This first task in my long journey in learning backend using php larvel starting from scratch 
+Sharing my long journey in learning backend using php-larvel starting from scratch to Hero as i hpoe  
 
-A Login System web page including index,login,home,logout 
